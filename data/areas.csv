@@ -1,0 +1,6 @@
+area_id,name,location,size,company_id,status
+0,Área Central,-19.869760_-43.967250,100,0,Em Monitoramento
+1,Área Norte,-19.868790_-43.965950,150,0,Não Monitorada
+2,Área Sul,-19.872650_-43.968550,120,0,Em Monitoramento
+3,Área Leste,-19.870550_-43.966750,130,0,Não Monitorada
+4,Área Oeste,-19.871350_-43.969150,110,0,Em Monitoramento

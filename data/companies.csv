@@ -1,0 +1,8 @@
+company_id,name,address,phone,cnpj
+0,Universidade Federal de Minas Gerais (UFMG),Av. Antônio Carlos 6627 Belo Horizonte MG Brazil,+55313409-5000,17168267000130
+1,Universidade de São Paulo (USP),R. da Reitoria 374 São Paulo SP Brazil,+55113091-4000,23456789000123
+2,Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio),R. Marquês de São Vicente 225 Rio de Janeiro RJ Brazil,+55213547-1000,34567890123456
+3,Universidade Estadual de Campinas (Unicamp),R. da Universidade 123 Campinas SP Brazil,+55193219-7000,45678901234567
+4,Universidade Federal do Rio Grande do Sul (UFRGS),Av. Paulo Gama 110 Porto Alegre RS Brazil,+55513095-6000,56789012345678
+5,Universidade Federal do Paraná (UFPR),R. XV de Novembro 1299 Curitiba PR Brazil,+55413216-3000,67890123456789
+6,Teste,Teste,123456789,12345678910

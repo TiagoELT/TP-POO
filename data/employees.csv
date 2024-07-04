@@ -1,0 +1,7 @@
+employee_id,user_id,company_id,position,phone
+0,1,0,Student,+553191234-5678
+1,2,0,Researcher,+551191234-5678
+2,3,0,Assistant,+552123456-7890
+3,4,1,Professor,+551991234-5678
+4,5,2,Coordinator,+555198765-4321
+5,6,6,Cargo de Teste,123456789

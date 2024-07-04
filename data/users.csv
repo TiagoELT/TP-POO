@@ -1,0 +1,8 @@
+user_id,name,password,email,type
+0,Admin User,admin,admin@admin.com,admin
+1,Tiago,123,tiago@email.com,normal
+2,Ana,123,ana@email.com,normal
+3,João,123,joao@email.com,normal
+4,Mariana,123,mariana@email.com,normal
+5,Carlos,123,carlo@email.com,normal
+6,Teste,123,teste@teste.com,normal
